@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Google Search Console & Search Engines Sitemap
+Sitemap: https://ryanmombeni288.github.io/Drpouriamombeni/sitemap.xml
