@@ -3,19 +3,17 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://ryanmombeni288.github.io/Drpouriamombeni/</loc>
+    <loc>https://pouriamombeni.ir/</loc>
     <lastmod>2026-09-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     
-    <!-- Language alternate annotations for Google Search -->
-    <xhtml:link rel="alternate" hreflang="fa" href="https://ryanmombeni288.github.io/Drpouriamombeni/" />
-    <xhtml:link rel="alternate" hreflang="en" href="https://ryanmombeni288.github.io/Drpouriamombeni/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://ryanmombeni288.github.io/Drpouriamombeni/" />
+    <xhtml:link rel="alternate" hreflang="fa" href="https://pouriamombeni.ir/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://pouriamombeni.ir/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://pouriamombeni.ir/" />
 
-    <!-- Portrait Image indexing for Google Images -->
     <image:image>
-      <image:loc>https://ryanmombeni288.github.io/Drpouriamombeni/images/pouria-mombeni.jpg</image:loc>
+      <image:loc>https://pouriamombeni.ir/images/pouria-mombeni.jpg</image:loc>
       <image:title>دکتر پوریا ممبنی - Pouria Mombeni</image:title>
       <image:caption>پوریا ممبنی، دارای دکترای اقتصاد و رتبه ۲ کنکور دکتری مدیریت صنعتی</image:caption>
     </image:image>
